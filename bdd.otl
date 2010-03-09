@@ -1,0 +1,104 @@
+Intro
+| [image: intro.svg]
+	Classical TDD
+	| [image: basic_tdd_flow.svg]
+	| public class AdditionTest {
+	| 	public void testAdd() { 
+	| 	  assert(2, 1+1);
+	| 	} 
+	TDD Not About Testing!
+	| But TDD was never about testing per se. Most developers doing TDD found
+	| themselves using 'tests' to drive design.
+	TestDox 
+	| [image: testdox.svg]	
+	| Chris Stevenson 2003
+	| 
+	| My introduction to BDD thinking
+		Readable TDD 
+		| 	
+		| public class AdditionTest {
+		|   public void testOnePlusOneShouldBeTwo() {
+		|       assert(2, 1+1);
+		|     } 
+		|   } 
+	RSpec
+	| [image: rspec.svg]
+	| Ruby very flexible code
+	|
+	| describe Adder do
+	| 	it 'should be able to add 1+1' do
+	| 		(1.add 1).should == 2
+		Still used driving design of internal code. 
+		| BDD calls TDD "Coding by example" 
+		| Write an example defining how we want
+		| the application to behave.
+		| Implement.
+Acceptance Test Driven Design and Planning
+| [image: atdd_atdp.svg]
+| Non coders should listen up - this is interesting!
+	How do we take this to a design of the __system__? 
+	| Start from the outside with stories. 
+	Stakeholder - Anyone Who Cares
+	| Core vs incidental
+	Feature Sets
+		Outcomes, Goals - why are we doing this?
+	Stories vs Features
+	| Features are what people use. Often there's a one to one mapping between
+	| them.
+	|
+	| One story can be a happy path for quick delivery
+	Planning
+	| Think about whether or not you really need story points.
+	Always slice vertically
+	| Do not want a update DB story
+	Outside-In 
+	| [image: outside-in.svg]
+		Evolving Design 
+	Acceptance Criteria
+	| [image: acceptance_criteria.svg]
+	| Involve testers early
+	| Define done, not in terms of "Documented" etc, but in terms of what does
+	| it mean.
+	| 
+	| Needs to be done before estimation, planning etc.
+	|
+	| We don't need all of them 
+	Scenarios provide planning value to stakeholder
+	Automate the scenarios!
+		A simple feature
+		| [image: simple_feature.svg]
+		| Feature: Signup
+		|   In order to register for the conference
+		|   As someone unregistered
+		|   I want to signup on the webpage
+		|
+		|   Scenario:
+		| 		Given I am a previously unregistered visitor
+		| 		When I register as an attendant
+		| 		Then my information is saved
+		| 		And a uid is generated
+		| 		And I see a confirmation page
+		| 		And I receive an email with an unique link
+		Repetitive
+		| [image: repetitive.svg]
+		| Feature: Front Page
+		|   In order to quickly see the most important information
+		|   As a visitor
+		|   I should see it on the front page
+		|
+		| 	Scenario Outline:
+		| 		Given I am a visitor
+		| 		When I surf to the front page
+		| 		Then I should see <text> in the text
+		|
+		|  Scenarios:
+		|    | text            |
+		|    | 10-11 maj       |
+		|    | Stockholm       |
+		|    | Agila Sverige   |
+		|    | blixttal        |
+		|    | Open Space      |
+	Let the coding begin
+	| RSpec - another lab another time
+Thankyou
+| [image: thankyou.svg]
