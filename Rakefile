@@ -9,5 +9,5 @@ task :view => :build do
 end
 
 task :present => :build do
-  IO.popen "impressive -t Crossfade slides.pdf"
+  `evince -s slides.pdf`
 end

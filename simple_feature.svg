@@ -15,7 +15,7 @@
    id="svg2816"
    version="1.1"
    inkscape:version="0.46+devel r22636 custom"
-   sodipodi:docname="outside-in.svg">
+   sodipodi:docname="New document 79">
   <defs
      id="defs2818">
     <marker
@@ -270,6 +270,34 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3694"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3694-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3694-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4511"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -278,9 +306,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="273.87224"
-     inkscape:cy="243.00641"
+     inkscape:zoom="1"
+     inkscape:cx="545.31467"
+     inkscape:cy="326.56"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -311,7 +339,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -320,19 +348,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <rect
-       style="opacity:0.60759499;fill:#fdf200;fill-opacity:0.60714285;stroke:none"
-       id="rect6413-1"
-       width="310"
-       height="190"
-       x="100"
-       y="518" />
-    <rect
-       style="opacity:0.60759499;fill:#009e00;fill-opacity:0.51785715;stroke:none"
-       id="rect6413"
-       width="310"
-       height="190"
-       x="100"
-       y="288" />
+       style="fill:#ccff99;fill-opacity:1;stroke:none"
+       id="rect8044"
+       width="960"
+       height="524"
+       x="30"
+       y="164" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
@@ -342,48 +363,6 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2946" /></text>
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.60759499;fill:#1524f1;fill-opacity:1;stroke:none"
-       id="path4336-9-4"
-       sodipodi:cx="430"
-       sodipodi:cy="458"
-       sodipodi:rx="40"
-       sodipodi:ry="40"
-       d="m 470,458 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
-       transform="matrix(1.5416667,0,0,1.5416667,33.750009,-198.08331)" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.60759499;fill:#1524f1;fill-opacity:1;stroke:none"
-       id="path4336-9-4-4"
-       sodipodi:cx="430"
-       sodipodi:cy="458"
-       sodipodi:rx="40"
-       sodipodi:ry="40"
-       d="m 470,458 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
-       transform="matrix(3.0833333,0,0,3.0833333,-629.16665,-904.16665)" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.60759499;fill:#1524f1;fill-opacity:1;stroke:none"
-       id="path4336-9-4-4-7"
-       sodipodi:cx="430"
-       sodipodi:cy="458"
-       sodipodi:rx="40"
-       sodipodi:ry="40"
-       d="m 470,458 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
-       transform="matrix(4.625,0,0,4.625,-1292.0833,-1610.25)" />
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="681.85889"
-       y="371.33334"
-       id="text5072"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5074"
-         x="681.85889"
-         y="371.33334"
-         style="font-size:36px;fill:#fdfdfd;fill-opacity:1;stroke:none">UI</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
@@ -395,30 +374,6 @@
          id="tspan5078"
          x="225"
          y="253" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="646.66663"
-       y="441.33334"
-       id="text5072-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5074-0"
-         x="646.66663"
-         y="441.33334"
-         style="font-size:36px;fill:#fdfdfd;fill-opacity:1;stroke:none">Model</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="659.13275"
-       y="521.33337"
-       id="text5072-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5074-7"
-         x="659.13275"
-         y="521.33337"
-         style="font-size:36px;fill:#fdfdfd;fill-opacity:1;stroke:none">Infra</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5130"
@@ -429,88 +384,7 @@
            height="301"
            x="458"
            y="222" /></flowRegion><flowPara
-         id="flowPara5136" /></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 400,348 c 160,40 160,40 160,40"
-       id="path5138"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 560,388 c 40,40 40,40 40,40"
-       id="path5622" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 600,428 c 50,40 50,40 50,40"
-       id="path5808" />
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="130"
-       y="388"
-       id="text6368"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6370"
-         x="130"
-         y="388"
-         style="font-size:28px">In order to &lt;goal&gt;</tspan><tspan
-         sodipodi:role="line"
-         x="130"
-         y="423"
-         id="tspan6372"
-         style="font-size:28px">As a &lt;role&gt;</tspan><tspan
-         sodipodi:role="line"
-         x="130"
-         y="458"
-         id="tspan6374"
-         style="font-size:28px">I want to &lt;action&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="114.03888"
-       y="618"
-       id="text6376"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6378"
-         x="114.03888"
-         y="618"
-         style="font-size:28px">Given &lt;precondition&gt;</tspan><tspan
-         sodipodi:role="line"
-         x="114.03888"
-         y="653"
-         id="tspan6380"
-         style="font-size:28px">When &lt;action&gt;</tspan><tspan
-         sodipodi:role="line"
-         x="114.03888"
-         y="688"
-         id="tspan6382"
-         style="font-size:28px">Then &lt;result&gt;</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="202.3042"
-       y="332"
-       id="text6384"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6386"
-         x="202.3042"
-         y="332"
-         style="font-size:36px">Story</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="180"
-       y="568"
-       id="text6384-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6386-7"
-         x="180"
-         y="568"
-         style="font-size:36px">Scenario</tspan></text>
-    <flowRoot
+         id="flowPara5136" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6415"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:24;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
@@ -523,13 +397,117 @@
          id="flowPara6421" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="235.836"
-       y="68"
-       id="text6447"
+       x="372"
+       y="433"
+       id="text3674"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan6449"
-         x="235.836"
-         y="68">Designing Outside-In</tspan></text>
-  </g>
+         id="tspan3676"
+         x="372"
+         y="433" /><tspan
+         sodipodi:role="line"
+         id="tspan3678" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3727"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:56;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+         id="flowRegion3729"><rect
+           id="rect3731"
+           width="494"
+           height="275"
+           x="439"
+           y="439" /></flowRegion><flowPara
+         id="flowPara3733" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="290"
+       y="78"
+       id="text8000"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8002"
+         x="290"
+         y="78">Simple Feature</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="50"
+       y="214"
+       id="text8004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan8006"
+         x="50"
+         y="214"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Feature: Signup</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="254"
+         id="tspan8010"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">  In order to register for the conference</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="294"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan8042">  As someone unregistered</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="334"
+         id="tspan8012"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">  I want to signup on the webpage</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="374"
+         id="tspan8014"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /><tspan
+         sodipodi:role="line"
+         x="50"
+         y="414"
+         id="tspan8016"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">  Scenario:</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="454"
+         id="tspan8018"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    Given I am a previously unregistered visitor</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="494"
+         id="tspan8020"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    When I register as an attendant</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="534"
+         id="tspan8022"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    Then my information is saved</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="574"
+         id="tspan8024"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    And a uid is generated</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="614"
+         id="tspan8026"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    And I see a confirmation page</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="654"
+         id="tspan8028"
+         style="font-size:32px;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">    And I receive an email with an unique link</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="694"
+         id="tspan8030" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8032"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Mentone;font-style:normal;font-weight:bold;font-size:56;-inkscape-font-specification:Mentone;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+         id="flowRegion8034"><rect
+           id="rect8036"
+           width="316"
+           height="306"
+           x="196"
+           y="176" /></flowRegion><flowPara
+         id="flowPara8038"></flowPara></flowRoot>  </g>
 </svg>

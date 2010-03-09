@@ -15,7 +15,7 @@
    id="svg2816"
    version="1.1"
    inkscape:version="0.46+devel r22636 custom"
-   sodipodi:docname="atdd+atd[.svg">
+   sodipodi:docname="atdd+atdp.svg">
   <defs
      id="defs2818">
     <marker
@@ -503,6 +503,48 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6,-0.6)" />
     </marker>
+    <inkscape:perspective
+       id="perspective7741"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7788"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7788-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7826"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7826-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7892"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -512,7 +554,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="659.44049"
+     inkscape:cx="570.97531"
      inkscape:cy="309.57915"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
@@ -552,6 +594,43 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect7816-3"
+       width="240"
+       height="248"
+       x="562"
+       y="150" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect7816-1"
+       width="290"
+       height="250"
+       x="348"
+       y="458" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       id="rect7816"
+       width="200"
+       height="180"
+       x="260"
+       y="208" />
+    <path
+       sodipodi:type="star"
+       style="fill:#8ad64b;fill-opacity:1;stroke:none"
+       id="path7714"
+       sodipodi:sides="5"
+       sodipodi:cx="720"
+       sodipodi:cy="558"
+       sodipodi:r1="133.41664"
+       sodipodi:r2="71.4105"
+       sodipodi:arg1="-0.26179939"
+       sodipodi:arg2="0.36651914"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 848.87058,523.46923 -62.20314,60.122 5.99647,86.30138 -76.40125,-40.57998 -80.22447,32.37157 14.98456,-85.2018 -55.57791,-66.29465 85.66221,-12.07763 45.87544,-73.34392 37.95759,77.73742 83.9305,20.96561 z"
+       transform="matrix(1.1309376,0,0,1.1309376,66.680499,-56.323546)" />
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
@@ -643,28 +722,23 @@
          y="138"
          id="tspan4111"
          style="text-align:center;text-anchor:middle">Design and Planning</tspan></text>
-    <path
-       sodipodi:type="arc"
-       style="opacity:0.60759499;fill:#666ac2;fill-opacity:0.73214285;stroke:none"
-       id="path4113"
-       sodipodi:cx="450"
-       sodipodi:cy="433"
-       sodipodi:rx="220"
-       sodipodi:ry="135"
-       d="m 670,433 a 220,135 0 1 1 -440,0 220,135 0 1 1 440,0 z"
-       transform="matrix(0.61363637,0,0,0.66666665,577.86363,299.33334)" />
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="794"
-       y="598"
+       x="878.94531"
+       y="568"
        id="text4115"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4117"
-         x="794"
-         y="598"
-         style="font-size:36px">System</tspan></text>
+         x="878.94531"
+         y="568"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan7710">Outside-In</tspan><tspan
+         sodipodi:role="line"
+         x="878.94531"
+         y="613"
+         style="font-size:36px;text-align:center;text-anchor:middle"
+         id="tspan7731">Design</tspan></text>
     <g
        id="g4813"
        transform="matrix(0.26436809,0,0,0.29464465,86.413575,335.45406)">
@@ -748,71 +822,32 @@
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="51.756001"
-       y="558"
+       x="576.65955"
+       y="342"
        id="text4825-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4827-5"
-         x="51.756001"
-         y="558"
-         style="font-size:20px">Anyone who cares</tspan><tspan
-         sodipodi:role="line"
-         x="51.756001"
-         y="583"
+         x="576.65955"
+         y="342"
          style="font-size:20px"
-         id="tspan4858">about the system. </tspan><tspan
+         id="tspan7776">Defines done. Involve</tspan><tspan
          sodipodi:role="line"
-         x="51.756001"
-         y="608"
+         x="576.65955"
+         y="367"
          style="font-size:20px"
-         id="tspan4860">Can be core or </tspan><tspan
+         id="tspan7925">testers early. Done </tspan><tspan
          sodipodi:role="line"
-         x="51.756001"
-         y="633"
+         x="576.65955"
+         y="392"
          style="font-size:20px"
-         id="tspan4888">incidental</tspan></text>
+         id="tspan7927">before planning.</tspan></text>
     <rect
-       style="opacity:1;fill:#dacf2f;fill-opacity:0.73214285000000001;stroke:none"
+       style="fill:#fff232;fill-opacity:0.90499997;stroke:none"
        id="rect4890"
        width="100"
        height="60"
-       x="296.26111"
+       x="308.91281"
        y="310" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 143.79638,317.12307 c 12.40722,-5.86606 12.40722,-5.86606 12.40722,-5.86606 l 0,0 0,0"
-       id="path5410" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#0f0909;stroke-width:4.38584566;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path4892"
-       sodipodi:cx="260"
-       sodipodi:cy="348"
-       sodipodi:rx="20"
-       sodipodi:ry="20"
-       d="m 280,348 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"
-       transform="matrix(0.51696728,0,0,0.62850718,15.588508,76.709358)" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 143.79638,321.31312 c 12.40722,-5.86606 12.40722,-5.86606 12.40722,-5.86606 l 0,0 0,0"
-       id="path5410-6" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 143.79638,325.50317 c 12.40722,-5.86606 12.40722,-5.86606 12.40722,-5.86606 l 0,0 0,0"
-       id="path5410-2" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 136.47904,284.30677 c -7.93585,-5.51338 -7.93585,-5.51338 -7.93585,-5.51338"
-       id="path5474" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 171.80691,278.79339 c -9.3598,5.51338 -9.3598,5.51338 -9.3598,5.51338"
-       id="path5474-7" />
-    <path
-       style="fill:none;stroke:#0f0909;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 150,267.64861 c 0,10 0,10 0,10"
-       id="path5474-7-1" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
        d="m 200,408 c 60,-50 60,-50 60,-50"
@@ -820,14 +855,14 @@
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="280"
-       y="288"
+       x="292.65173"
+       y="258"
        id="text4825-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4827-2"
-         x="280"
-         y="288"
+         x="292.65173"
+         y="258"
          style="font-size:36px">Feature</tspan></text>
     <text
        xml:space="preserve"
@@ -840,169 +875,151 @@
          id="tspan6504"
          x="421"
          y="491" /></text>
-    <g
-       id="g7498"
-       transform="translate(40,0)">
-      <g
-         id="g7454">
-        <rect
-           style="opacity:0.60759499;fill:#dacf2f;fill-opacity:1;stroke:none"
-           id="rect4890-8"
-           width="120"
-           height="70"
-           x="410"
-           y="478" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
-           x="421.18753"
-           y="494.901"
-           id="text6506"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan6508"
-             x="421.18753"
-             y="494.901"
-             style="font-size:18px">In order to ...</tspan><tspan
-             sodipodi:role="line"
-             x="421.18753"
-             y="517.401"
-             id="tspan6510"
-             style="font-size:18px">AS A ...</tspan><tspan
-             sodipodi:role="line"
-             x="421.18753"
-             y="539.901"
-             id="tspan6512"
-             style="font-size:18px">I Want to ...</tspan></text>
-      </g>
-    </g>
+    <rect
+       style="opacity:0.60759499;fill:#fff230;fill-opacity:1;stroke:none"
+       id="rect4890-8"
+       width="120"
+       height="70"
+       x="498"
+       y="478" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
+       x="509.18753"
+       y="494.901"
+       id="text6506"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6508"
+         x="509.18753"
+         y="494.901"
+         style="font-size:18px">In order to ...</tspan><tspan
+         sodipodi:role="line"
+         x="509.18753"
+         y="517.401"
+         id="tspan6510"
+         style="font-size:18px">AS A ...</tspan><tspan
+         sodipodi:role="line"
+         x="509.18753"
+         y="539.901"
+         id="tspan6512"
+         style="font-size:18px">I Want to ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="410"
+       x="428"
        y="608"
        id="text4825-8-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4827-2-9"
-         x="410"
+         x="428"
          y="608"
          style="font-size:36px">Stories</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
-       x="304.17355"
+       x="316.82526"
        y="347.271"
        id="text6546"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6548"
-         x="304.17355"
+         x="316.82526"
          y="347.271"
          style="font-size:22px">New IDeA</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.68328166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
        d="m 400,388 c 40,70 40,70 40,70"
        id="path5627-4" />
-    <g
-       transform="translate(-90,0)"
-       id="g7454-2">
-      <rect
-         y="478"
-         x="410"
-         height="70"
-         width="120"
-         id="rect4890-8-1"
-         style="opacity:0.60759499;fill:#dacf2f;fill-opacity:1;stroke:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text6506-7"
+    <rect
+       style="opacity:0.60759499;fill:#fff72d;fill-opacity:1;stroke:none"
+       id="rect4890-8-1"
+       width="120"
+       height="70"
+       x="368"
+       y="478" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
+       x="379.18753"
+       y="494.901"
+       id="text6506-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6508-5"
+         x="379.18753"
          y="494.901"
-         x="421.18753"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
-         xml:space="preserve"><tspan
-           style="font-size:18px"
-           y="494.901"
-           x="421.18753"
-           id="tspan6508-5"
-           sodipodi:role="line">In order to ...</tspan><tspan
-           style="font-size:18px"
-           id="tspan6510-9"
-           y="517.401"
-           x="421.18753"
-           sodipodi:role="line">AS A ...</tspan><tspan
-           style="font-size:18px"
-           id="tspan6512-2"
-           y="539.901"
-           x="421.18753"
-           sodipodi:role="line">I Want to ...</tspan></text>
-    </g>
-    <g
-       id="g7498-7"
-       transform="translate(128.15294,-176.901)">
-      <g
-         id="g7454-5">
-        <rect
-           style="opacity:0.60759499;fill:#dacf2f;fill-opacity:1;stroke:none"
-           id="rect4890-8-0"
-           width="120"
-           height="70"
-           x="481.18753"
-           y="484.901" />
-        <text
-           xml:space="preserve"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
-           x="492.37506"
-           y="501.802"
-           id="text6506-4"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan6508-3"
-             x="492.37506"
-             y="501.802"
-             style="font-size:18px">Given ...</tspan><tspan
-             sodipodi:role="line"
-             x="492.37506"
-             y="524.302"
-             id="tspan6510-2"
-             style="font-size:18px">When ...</tspan><tspan
-             sodipodi:role="line"
-             x="492.37506"
-             y="546.802"
-             id="tspan6512-6"
-             style="font-size:18px">THen ...</tspan></text>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot7569"
-           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
-           transform="translate(-158.81247,176.901)"><flowRegion
-             id="flowRegion7571"><rect
-               id="rect7573"
-               width="296.98486"
-               height="164.04877"
-               x="506.28845"
-               y="275.14658" /></flowRegion><flowPara
-             id="flowPara7575"></flowPara></flowRoot>      </g>
-    </g>
-    <path
+         style="font-size:18px">In order to ...</tspan><tspan
+         sodipodi:role="line"
+         x="379.18753"
+         y="517.401"
+         id="tspan6510-9"
+         style="font-size:18px">AS A ...</tspan><tspan
+         sodipodi:role="line"
+         x="379.18753"
+         y="539.901"
+         id="tspan6512-2"
+         style="font-size:18px">I Want to ...</tspan></text>
+    <rect
+       style="opacity:0.60759499;fill:#fff22f;fill-opacity:1;stroke:none"
+       id="rect4890-8-0"
+       width="120"
+       height="70"
+       x="622"
+       y="250" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
+       x="633.18756"
+       y="266.901"
+       id="text6506-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6508-3"
+         x="633.18756"
+         y="266.901"
+         style="font-size:18px">Given ...</tspan><tspan
+         sodipodi:role="line"
+         x="633.18756"
+         y="289.401"
+         id="tspan6510-2"
+         style="font-size:18px">When ...</tspan><tspan
+         sodipodi:role="line"
+         x="633.18756"
+         y="311.901"
+         id="tspan6512-6"
+         style="font-size:18px">THen ...</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7569"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
+       transform="translate(-19.99997,-30)"><flowRegion
+         id="flowRegion7571"><rect
+           id="rect7573"
+           width="296.98486"
+           height="164.04877"
+           x="506.28845"
+           y="275.14658" /></flowRegion><flowPara
+         id="flowPara7575"></flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 570,458 c 60,-70 60,-70 60,-70"
+       d="m 570,458 c 50,-60 50,-60 50,-60"
        id="path5627-4-6" />
     <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
-       x="670"
-       y="252"
+       x="682.65955"
+       y="194"
        id="text4825-8-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4827-2-5"
-         x="670"
-         y="252"
+         x="682.65955"
+         y="194"
          style="font-size:36px;text-align:center;text-anchor:middle">Acceptance</tspan><tspan
          sodipodi:role="line"
-         x="670"
-         y="297"
+         x="682.65955"
+         y="239"
          style="font-size:36px;text-align:center;text-anchor:middle"
          id="tspan7630">Criteria</tspan></text>
     <flowRoot
@@ -1017,7 +1034,102 @@
            y="490.10703" /></flowRegion><flowPara
          id="flowPara7638"></flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 730,398 c 50,90 50,90 50,90"
+       d="m 730,398 c 90,100 90,100 90,100"
        id="path5627-4-6-7" />
-  </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:'F*ck Beans';-inkscape-font-specification:'F*ck Beans'"
+       x="750"
+       y="398"
+       id="text7716"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="750"
+         y="425.5"
+         id="tspan7720"
+         style="font-size:22;font-family:Mentone;-inkscape-font-specification:Mentone" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="50"
+       y="548"
+       id="text4825-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4827-5-7"
+         x="50"
+         y="548"
+         style="font-size:20px">Anyone who cares</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="573"
+         style="font-size:20px"
+         id="tspan4858-5">about the system. </tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="598"
+         style="font-size:20px"
+         id="tspan4860-7">Can be core or </tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="623"
+         style="font-size:20px"
+         id="tspan4888-7">incidental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="320"
+       y="428"
+       id="text4825-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="320"
+         y="428"
+         style="font-size:20px"
+         id="tspan7776-8">Often 1-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="280"
+       y="288"
+       id="text4825-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="280"
+         y="288"
+         style="font-size:20px"
+         id="tspan7776-6">What people use</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Mentone;-inkscape-font-specification:Mentone"
+       x="360"
+       y="638"
+       id="text4825-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="360"
+         y="638"
+         style="font-size:20px"
+         id="tspan7776-4">Not more than a few days</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="663"
+         style="font-size:20px"
+         id="tspan7911">work. Can be a unit if </tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="688"
+         style="font-size:20px"
+         id="tspan7915">roughly the same size</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7917"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'F*ck Beans';font-style:normal;font-weight:bold;font-size:16;-inkscape-font-specification:'F*ck Beans';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"><flowRegion
+         id="flowRegion7919"><rect
+           id="rect7921"
+           width="352"
+           height="276"
+           x="529"
+           y="162" /></flowRegion><flowPara
+         id="flowPara7923"></flowPara></flowRoot>  </g>
 </svg>
